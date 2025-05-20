@@ -14,8 +14,6 @@ A machine learning-based web app to detect whether a news article is **fake** or
 
 Uses the `train.csv` dataset from the [Fake News Dataset on Kaggle](https://www.kaggle.com/c/fake-news/data).
 
-**Make sure to include `train.csv.zip` in the project folder.**
-
 ## 🧰 Tech Stack
 
 - Python
